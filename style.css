@@ -99,3 +99,8 @@ div h2 {
 #video{
     margin: 2rem 2rem;
 }
+iframe{
+    width: 20vw;
+    height: 50vh;
+    border: 0px;
+}
